@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manan Jain</h1>
-I’m a passionate software developer exploring the worlds of machine learning 🤖 and web development 🌐. <br>I love building projects that solve real-world problems 🛠️ and sharing my work with the community 💡.
+<h3 style="text-align: center;">I’m a passionate software developer exploring the worlds of machine learning 🤖 and web development 🌐.</h3><br><h3 style="text-align: center;">I love building projects that solve real-world problems 🛠️ and sharing my work with the community 💡.</h3>
 
 
 ## 🌐 Connect with me:
