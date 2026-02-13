@@ -2,9 +2,8 @@
 I’m a passionate software developer exploring the worlds of machine learning 🤖 and web development 🌐. <br>I love building projects that solve real-world problems 🛠️ and sharing my work with the community 💡.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manan-jain-54a57a3a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manan-jain-54a57a3a8" height="30" width="40" /></a>
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-jain-54a57a3a8) 
 <a href="https://www.leetcode.com/mananjain2107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mananjain2107" height="30" width="40" /></a>
 </p>
 
