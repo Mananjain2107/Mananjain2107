@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manan Jain</h1>
-# Hi 👋, I'm Manan Jain
 I’m a passionate software developer exploring the worlds of machine learning 🤖 and web development 🌐. <br>I love building projects that solve real-world problems 🛠️ and sharing my work with the community 💡.
 
 
