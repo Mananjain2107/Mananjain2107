@@ -6,5 +6,6 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-jain-54a57a3a8) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)?logo=linkedin&logoColor=white)](href="https://www.leetcode.com/mananjain2107) 
 <a href="https://www.leetcode.com/mananjain2107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mananjain2107" height="30" width="40" /></a>
 </p>
